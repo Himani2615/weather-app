@@ -4,9 +4,9 @@ The Weather App is a simple web application that allows users to check the weath
 
 # Features
 
-    Search: Users can enter the name of a city to get the current weather information.
-    Weather Details: Displays temperature, humidity, and wind speed of the selected city.
-    Weather Icons: Dynamically changes weather icons based on the current weather conditions.
+   Search: Users can enter the name of a city to get the current weather information.
+   Weather Details: Displays temperature, humidity, and wind speed of the selected city.
+   Weather Icons: Dynamically changes weather icons based on the current weather conditions.
 
 # Technologies Used
 
@@ -18,7 +18,7 @@ The Weather App is a simple web application that allows users to check the weath
 
   1.Clone the repository to your local machine:
 
-    git clone <repository-url>
+    git clone https://github.com/Himani2615/weather-app
 
   2.Open the index.html file in a web browser.
 
