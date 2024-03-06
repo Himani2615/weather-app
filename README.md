@@ -2,6 +2,9 @@
 
 The Weather App is a simple web application that allows users to check the weather conditions of different cities around the world.
 
+
+![Screenshot (135)](https://github.com/Himani2615/weather-app/assets/143219485/9fca4874-956d-4fe5-99af-2c9392844f58)
+
 # Features
 
    Search: Users can enter the name of a city to get the current weather information.
